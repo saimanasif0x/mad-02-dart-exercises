@@ -40,5 +40,4 @@ On the untouched starter, 11 tests pass and 9 fail. Nine of the passing tests ch
 Replace this picture with your own. Run `dart test` and `dart run`, take a screenshot of your terminal, name it `screenshot.png`, and put it in the top folder of this repository, next to this README.
 
 ## AI note
-
-Replace this line with one sentence that says what you asked AI, or write "I didn't use AI".
+I used AI to explain the Dart concepts in simple, everyday words so I could understand how null safety, loops, and class methods actually work.I also asked it to break down the assignment requirements step by step without heavy technical jargon. It also helped me find and fix a curly brace placement issue when my report method couldn't recognize the top student getter. Finally, I used it to double-check my logic so all the unit tests would pass before my deadline.
